@@ -3,7 +3,7 @@ import { add, remove, toggle } from './actions'
 import { useState } from 'react';
 import { Box, Button, Checkbox, Container, Grid, IconButton, ListItem, ListItemIcon, ListItemSecondaryAction, ListItemText,
 TextField, } from '@material-ui/core';
-import { Delete, Remove } from '@material-ui/icons';
+import { Delete } from '@material-ui/icons';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 
